@@ -39,6 +39,10 @@ I am a passionate FullStack Developer, driven by a curiosity for technology. My 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+### 📊 Project Management  
+![JIRA](https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+
 ## 🌱 Currently Exploring
 
 - ⚡ **Electron.js**: Building cross-platform desktop applications using JavaScript.  
