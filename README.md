@@ -29,7 +29,7 @@ I am a passionate FullStack Developer, driven by a curiosity for technology. My 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔗 Real-Time & Backend Services  
-![Socket.io](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)  
+![Socket.io](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
 
 ### ☁️ Cloud & DevOps
