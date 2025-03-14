@@ -37,10 +37,13 @@ I am a passionate FullStack Developer, driven by a curiosity for technology. My 
 
 ## 🌱 Currently Exploring
 
-- ⚡ **Electron.js**: Building cross-platform desktop applications using JavaScript.
-- 📱 **React Native**: Exploring mobile app development with React-based framework.
-- ☁️ **AWS**: Diving deeper into cloud services and architecture best practices.
-- 🤖 **Data Science & Machine Learning**: Exploring Python libraries like NumPy, Pandas, and TensorFlow.
+- ⚡ **Electron.js**: Building cross-platform desktop applications using JavaScript.  
+- 📱 **React Native**: Exploring mobile app development with React-based framework.  
+- ☁️ **AWS & Firebase**: Diving deeper into cloud services, serverless functions, and real-time databases.  
+- 🤖 **Data Science & Machine Learning**: Exploring Python libraries like NumPy, Pandas, and TensorFlow.  
+- 🔥 **Firebase**: Learning more advanced features in Firebase.  
+- 🚀 **Angular**: Exploring component-based architecture and TypeScript-powered frontend development.  
+
 
 ## 💼 Work Experience
 
