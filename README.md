@@ -1,6 +1,9 @@
 # Hi, I'm Siji! 👋
 
-<p align="center"><b>🚀 Code with passion, deliver with precision. 🎯</b></p>
+---
+🛠️ **Code with passion, deliver with precision.** 🚀
+---
+
 
 I am a passionate FullStack Developer, driven by a curiosity for technology. My journey involves delving into the world of technology, exploring new ideas, and continuously learning.
 
