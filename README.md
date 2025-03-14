@@ -1,6 +1,5 @@
 # Hi, I'm Siji! 👋
 
----
 🛠️ **Code with passion, deliver with precision.** 🚀
 ---
 
