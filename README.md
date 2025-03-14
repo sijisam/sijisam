@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Siji! 👋
 
-<!--
-**sijisam/sijisam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate FullStack Developer, driven by a curiosity for technology. My journey involves delving into the world of technology, exploring new ideas, and continuously learning.
 
-Here are some ideas to get you started:
+![Siji's Stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I'm currently working as a **Software Developer** at **WeberFox Technologies Pvt. Ltd, Cochin**.
+
+## 🚀 Tech Stack
+
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🛠️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## 🌱 Currently Exploring
+
+- ⚡ **Electron.js**: Building cross-platform desktop applications using JavaScript.
+- 📱 **React Native**: Exploring mobile app development with React-based framework.
+- ☁️ **AWS**: Diving deeper into cloud services and architecture best practices.
+- 🤖 **Data Science & Machine Learning**: Exploring Python libraries like NumPy, Pandas, and TensorFlow.
+
+## 📬 Get in Touch
+
+- 🐦 Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- 📖 Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
