@@ -28,6 +28,10 @@ I am a passionate FullStack Developer, driven by a curiosity for technology. My 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### 🔗 Real-Time & Backend Services  
+![Socket.io](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
+
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
@@ -37,6 +41,20 @@ I am a passionate FullStack Developer, driven by a curiosity for technology. My 
 - 📱 **React Native**: Exploring mobile app development with React-based framework.
 - ☁️ **AWS**: Diving deeper into cloud services and architecture best practices.
 - 🤖 **Data Science & Machine Learning**: Exploring Python libraries like NumPy, Pandas, and TensorFlow.
+
+## 💼 Work Experience
+
+### 🚀 Software Developer | WeberFox Technologies Pvt. Ltd, Cochin  
+🗓️ *[August] 2022 – Present*  
+
+- 👨‍💻 Built & Maintained 30+ Projects using React, Next.js, Node.js, Express, PHP, and Laravel across various domains.
+- 🚀 Led CAVZON – A full-featured job portal with real-time chat.
+- 🍔 Powered ORDDAR – Developed backend APIs and managed server operations for this food & grocery delivery app.
+- 🌟 Built HEROSCOOP – Developed the website & admin panel, created APIs for both and the mobile app, managed AWS servers, and integrated SendGrid for emails.
+- ☁️ Integrated AWS Services – Worked with S3, EC2, SES for cloud hosting & email automation.
+- 🎨 Pixel-Perfect UI – Collaborated with UI/UX designers for seamless, responsive designs.
+- 🔥 And Many More! – Contributed to multiple innovative projects, each with unique challenges and solutions. 🚀
+
 
 ## 📬 Get in Touch
 
