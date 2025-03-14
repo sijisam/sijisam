@@ -2,7 +2,7 @@
 
 I am a passionate FullStack Developer, driven by a curiosity for technology. My journey involves delving into the world of technology, exploring new ideas, and continuously learning.
 
-![Siji's Stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Siji's Stats](https://github-readme-stats.vercel.app/api?username=sijisam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -40,7 +40,6 @@ I am a passionate FullStack Developer, driven by a curiosity for technology. My 
 
 ## 📬 Get in Touch
 
-- 🐦 Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- 📖 Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- 🐦 Connect with me on [Instagram](https://www.instagram.com/__p_o_s_e_i_d_o_n__)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
