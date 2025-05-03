@@ -72,6 +72,6 @@ I am a passionate FullStack Developer, driven by a curiosity for technology. My 
 - 🐦 Connect with me on [Instagram](https://www.instagram.com/__p_o_s_e_i_d_o_n__)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__p_o_s_e_i_d_o_n__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sijisam-dev/)
+[![LinkedIn](https://img.shields.io/badge/Connect-%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sijisam-dev/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
