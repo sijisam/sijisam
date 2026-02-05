@@ -6,7 +6,7 @@
 
 I am a passionate FullStack Developer, driven by a curiosity for technology. My journey involves delving into the world of technology, exploring new ideas, and continuously learning.
 
-![Siji's Stats](https://github-readme-stats.vercel.app/api?username=sijisam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Siji's Stats](https://github-readme-stats-siji.vercel.app/api?username=sijisam)
 
 ## 🚀 About Me
 
