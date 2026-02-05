@@ -74,7 +74,7 @@ I enjoy working across the stack — from crafting responsive UIs to deploying a
 ---
 
 ### 🚀 Software Developer | WeberFox Technologies Pvt. Ltd, Cochin  
-🗓️ *August 2022 – July 2025*
+🗓️ *August 2022 – August 2025*
 
 - 👨‍💻 Designed, developed, and maintained **30+ web applications** using React, Next.js, Node.js, PHP, Laravel, and Drupal.
 - 🔄 Led **Drupal 7 → Drupal 11 migrations**, improving performance, security, and maintainability.
